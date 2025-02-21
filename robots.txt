@@ -1,8 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Allow: /
-
-Disallow: /static/
-Disallow: /node_modules/
-Disallow: /build/
-
-Sitemap: https://codeehere.github.io/kEuroMo/sitemap.xml
+Disallow:

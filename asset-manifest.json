@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kEuroMo/static/css/main.ca67ef22.css",
-    "main.js": "/kEuroMo/static/js/main.a2ded672.js",
+    "main.css": "/kEuroMo/static/css/main.eb3f173c.css",
+    "main.js": "/kEuroMo/static/js/main.c8a0d9db.js",
     "static/js/563.82d7615c.chunk.js": "/kEuroMo/static/js/563.82d7615c.chunk.js",
     "index.html": "/kEuroMo/index.html",
-    "main.ca67ef22.css.map": "/kEuroMo/static/css/main.ca67ef22.css.map",
-    "main.a2ded672.js.map": "/kEuroMo/static/js/main.a2ded672.js.map",
+    "main.eb3f173c.css.map": "/kEuroMo/static/css/main.eb3f173c.css.map",
+    "main.c8a0d9db.js.map": "/kEuroMo/static/js/main.c8a0d9db.js.map",
     "563.82d7615c.chunk.js.map": "/kEuroMo/static/js/563.82d7615c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca67ef22.css",
-    "static/js/main.a2ded672.js"
+    "static/css/main.eb3f173c.css",
+    "static/js/main.c8a0d9db.js"
   ]
 }
